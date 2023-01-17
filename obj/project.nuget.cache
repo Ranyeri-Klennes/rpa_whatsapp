@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "cNgliLBgvpSAEH2KL0C+DoI6Ev2xJwNyrc0vyqEH1JlTKBqIpep3LXqIAb2UfMajtzsczoOOFLgXODJOFlA8Nw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\COMERCIAL02\\Desktop\\rpa_whatsapp\\rpa_whatsapp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\COMERCIAL02\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\COMERCIAL02\\.nuget\\packages\\openqa.selenium.chrome.chromedriverextensions\\1.2.0\\openqa.selenium.chrome.chromedriverextensions.1.2.0.nupkg.sha512",
+    "C:\\Users\\COMERCIAL02\\.nuget\\packages\\selenium.webdriver\\4.7.0\\selenium.webdriver.4.7.0.nupkg.sha512",
+    "C:\\Users\\COMERCIAL02\\.nuget\\packages\\selenium.webdriver.chromedriver\\108.0.5359.7100\\selenium.webdriver.chromedriver.108.0.5359.7100.nupkg.sha512"
+  ],
+  "logs": []
+}
